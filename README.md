@@ -4,3 +4,4 @@ I'm actually doing this as R&D project and for now I'll **NOT** take any actions
 
 #### CREDITS
 
+GildedGames Studio - Original Aether mod devs
