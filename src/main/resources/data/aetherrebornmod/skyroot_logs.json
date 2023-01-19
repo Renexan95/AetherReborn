@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "aetherrebornmod:skyroot_log",
+        "aetherrebornmod:skyroot_wood",
+        "aetherrebornmod:stripped_skyroot_log",
+        "aetherrebornmod:stripped_skyroot_wood"
+    ]
+}

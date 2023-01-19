@@ -1,0 +1,7 @@
+  {
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "aetherrebornmod:block/skyrootlog_top",
+      "side": "aetherrebornmod:block/skyrootlog_side"
+    }
+  }

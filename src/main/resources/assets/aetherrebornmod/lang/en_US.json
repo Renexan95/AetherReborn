@@ -1,0 +1,14 @@
+{
+ 
+    "item.aetherrebornmod.skyrootstick": "Skyroot Stick",
+
+    "block.aetherrebornmod.skyroot_plank": "Skyroot Plank",
+    "block.aetherrebornmod.skyroot_stairs": "Skyroot Stairs",
+    "block.aetherrebornmod.skyroot_fence": "Skyroot Fence",
+    "block.aetherrebornmod.skyroot_log": "Skyroot Log",
+    "block.aetherrebornmod.skyroot_wood": "Skyroot Wood",
+    "block.aetherrebornmod.stripped_skyroot_log": "Stripped Skyroot Log",
+    "block.aetherrebornmod.stripped_skyroot_wood": "Stripped Skyroot Wood",
+ 
+    "itemGroup.aetherreborntab": "Aether Reborn"
+}

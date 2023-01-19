@@ -1,0 +1,23 @@
+modLoader="javafml" 
+loaderVersion="[40,)"
+license="All rights reserved"
+[[mods]] 
+modId="aetherrebornmod" 
+version="${file.jarVersion}" 
+displayName="Aether Reborn Mod" 
+logoFile="aetherrebornmodmod.png" 
+credits="Thanks for this example mod goes to Java" 
+authors="Ren the Lynx" 
+description=''' My personal reintrerpretation of the most famous celestial dimension in the world! '''
+[[dependencies.aetherrebornmod]] 
+    modId="forge" 
+    mandatory=true 
+    versionRange="[40,)" 
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.aetherrebornmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
