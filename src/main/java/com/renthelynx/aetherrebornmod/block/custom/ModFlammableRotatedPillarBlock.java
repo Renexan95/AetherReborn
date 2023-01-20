@@ -58,6 +58,7 @@ public class ModFlammableRotatedPillarBlock extends RotatedPillarBlock {
 //        return super.getToolModifiedState(state, world, pos, player, stack, toolAction);
 //    }
 
+    /** replaced the deprecated method with the newer one */
     @Nullable
     @Override
     public BlockState getToolModifiedState(BlockState state, UseOnContext context, ToolAction toolAction, boolean simulate) {
