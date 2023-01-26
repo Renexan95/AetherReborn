@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+      "bottom": "aetherrebornmod:block/goldentree_plank",
+      "top": "aetherrebornmod:block/goldentree_plank",
+      "side": "aetherrebornmod:block/goldentree_plank"
+    }
+  }

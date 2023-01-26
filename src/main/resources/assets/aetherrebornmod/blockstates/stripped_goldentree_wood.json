@@ -1,0 +1,16 @@
+{
+    "variants": {
+      "axis=x": {
+        "model": "aetherrebornmod:block/stripped_goldentree_wood",
+        "x": 90,
+        "y": 90
+      },
+      "axis=y": {
+        "model": "aetherrebornmod:block/stripped_goldentree_wood"
+      },
+      "axis=z": {
+        "model": "aetherrebornmod:block/stripped_goldentree_wood",
+        "x": 90
+      }
+    }
+  }

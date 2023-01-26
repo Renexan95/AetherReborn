@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "aetherrebornmod:block/whisperootlogstripped_side",
+      "side": "aetherrebornmod:block/whisperootlogstripped_side"
+    }
+  }

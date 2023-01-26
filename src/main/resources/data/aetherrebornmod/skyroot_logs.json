@@ -1,9 +1,13 @@
 {
     "replace": false,
     "values": [
-        "aetherrebornmod:skyroot_log",
-        "aetherrebornmod:skyroot_wood",
-        "aetherrebornmod:stripped_skyroot_log",
-        "aetherrebornmod:stripped_skyroot_wood"
+        "aetherrebornmod:whisperoot_log",
+        "aetherrebornmod:whisperoot_wood",
+        "aetherrebornmod:stripped_whisperoot_log",
+        "aetherrebornmod:stripped_whisperoot_wood",
+        "aetherrebornmod:goldentree_log",
+        "aetherrebornmod:goldentree_wood",
+        "aetherrebornmod:stripped_goldentree_log",
+        "aetherrebornmod:stripped_goldentree_wood"
     ]
 }

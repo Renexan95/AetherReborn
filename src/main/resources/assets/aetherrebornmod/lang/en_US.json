@@ -9,6 +9,22 @@
     "block.aetherrebornmod.skyroot_wood": "Skyroot Wood",
     "block.aetherrebornmod.stripped_skyroot_log": "Stripped Skyroot Log",
     "block.aetherrebornmod.stripped_skyroot_wood": "Stripped Skyroot Wood",
- 
+    "block.aetherrebornmod.whisperoot_plank": "Whisper Root Plank",
+    "block.aetherrebornmod.whisperoot_stairs": "Whisper Root Stairs",
+    "block.aetherrebornmod.whisperoot_fence": "Whisper Root Fence",
+    "block.aetherrebornmod.whisperoot_log": "Whisper Root Log",
+    "block.aetherrebornmod.whisperoot_wood": "Whisper Root Wood",
+    "block.aetherrebornmod.stripped_whisperoot_log": "Stripped Whisper Root Log",
+    "block.aetherrebornmod.stripped_whisperoot_wood": "Stripped Whisper Root Wood",
+    "block.aetherrebornmod.goldentree_plank": "Golden Tree Plank",
+    "block.aetherrebornmod.goldentree_stairs": "Golden Tree Stairs",
+    "block.aetherrebornmod.goldentree_fence": "Golden Tree Fence",
+    "block.aetherrebornmod.goldentree_log": "Golden Tree Log",
+    "block.aetherrebornmod.goldentree_wood": "Golden Tree Wood",
+    "block.aetherrebornmod.stripped_goldentree_log": "Stripped Golden Tree Log",
+    "block.aetherrebornmod.stripped_goldentree_wood": "Stripped Golden Tree Wood",
+    
+    "block.aetherrebornmod.holystone_stone": "Holystone",
+    
     "itemGroup.aetherreborntab": "Aether Reborn"
 }

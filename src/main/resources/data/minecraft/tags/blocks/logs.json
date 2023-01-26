@@ -1,6 +1,8 @@
 {
     "replace": false,
     "values": [
-        "#aetherrebornmod:skyroot_logs"
+        "#aetherrebornmod:skyroot_logs",
+        "#aetherrebornmod:whisperoot_logs",
+        "#aetherrebornmod:goldentree_logs"
     ]
 }

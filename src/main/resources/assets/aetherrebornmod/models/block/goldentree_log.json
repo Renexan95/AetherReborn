@@ -1,0 +1,7 @@
+  {
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "aetherrebornmod:block/goldentreelog_top",
+      "side": "aetherrebornmod:block/goldentreelog_side"
+    }
+  }
